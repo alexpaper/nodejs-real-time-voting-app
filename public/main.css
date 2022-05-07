@@ -9,7 +9,7 @@ body{
 }
 header{
     width: 100%;
-    padding: 130px;
+    padding: 70px;
     background: url('./head.png') no-repeat;
     background-size: cover;
     background-position: center;
@@ -57,11 +57,13 @@ h1{
     border: 2px solid red;
     box-shadow: 2px 2px 0 red;
 }
-.connected.active{
+.connected{
     text-align: center;
-    color: green;
     font-weight: bold;
     margin-top: 5px;
+}
+.connected.active{
+    color: green;
 }
 canvas#myChart{
     margin: 10px auto;

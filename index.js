@@ -12,7 +12,6 @@ app.use(express.static('public'));
 let jsonData = JSON.parse(fs.readFileSync('./data/data.json')) || [13,3,4,5,6,11];
 // console.log(jsonData.data);
 
-
 // 3 WS SERVER
 const wss = new WebSocketServer({port:8080});
 // 4 SERVER EVENTS
