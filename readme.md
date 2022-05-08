@@ -9,7 +9,7 @@
 
 ![image](./public/front-chart.png)
 
-> Super Simple JavaScript realt time voting app.
+> Super Simple JavaScript WebSocket Realt Rime voting app.
 
 ### 📚 STACK
 - NodeJs
@@ -33,7 +33,7 @@
 
 ### Video Guide Link
     
-[Video Guide]()
+[Video Guide](https://youtu.be/5VEbSbM5m3Q)
 
 ## License
 
